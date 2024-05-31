@@ -78,8 +78,8 @@ Ensure you have the following installed on your system:
 
 1. **Run ROS2 Node**:
     ```bash
-    ros2 run object_detection_ROS_YOLO vid_pub.py
-    ros2 run object_detection_ROS_YOLO Vid_sub.py
+    ros2 run obj_detection vid_pub.py
+    ros2 run obj_detection Vid_sub.py
     ```
 
 2. **Viewing Detected Objects**:
